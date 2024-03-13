@@ -1,0 +1,5 @@
+use nav and ul and li for navigation bar
+font-family: "Varela Round", sans-serif;
+ font-family: "Ubuntu", sans-serif;
+
+ Always make container for main content using div
